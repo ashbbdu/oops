@@ -1,10 +1,12 @@
 package Inheritance;
 
-public class Animal {
+public class Animal extends Creature {
     private Integer legs;
     private Integer ears;
 
-    Animal (Integer legs , Integer ears) {
+
+    Animal (Integer legs , Integer ears , String creatureName) {
+        super(creatureName);
         this.ears = ears;
         this.legs = legs;
     }

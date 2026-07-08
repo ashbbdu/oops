@@ -2,7 +2,7 @@ package Inheritance;
 
 public class Dog extends Animal{
     Dog () {
-        super(10 , 2);
+        super(10 , 2 , "Dog");
     }
 
     @Override
@@ -14,6 +14,9 @@ public class Dog extends Animal{
     public static void main(String[] args) {
         Dog dog = new Dog();
         System.out.println(dog.sound());
+        System.out.println(dog.getCreatureName());
+        Dog priyanka = new Dog();
+        System.out.println(priyanka.sound());
 
     }
 }

@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8237132-c580-4aee-a447-231ab3308936" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Creature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/InheritanceProblem/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/InheritanceProblem/Engineer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/InheritanceProblem/Manager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +39,7 @@
     "Application.Book.executor": "Run",
     "Application.Dog.executor": "Run",
     "Application.Electronic.executor": "Run",
+    "Application.Employee.executor": "Run",
     "Application.Library.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",

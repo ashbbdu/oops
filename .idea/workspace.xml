@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8237132-c580-4aee-a447-231ab3308936" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/InheritanceProblem/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/InheritanceProblem/Engineer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/InheritanceProblem/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstraction/Abstraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Abstraction.executor": "Run",
     "Application.AccountTest.executor": "Run",
     "Application.Book.executor": "Run",
     "Application.Dog.executor": "Run",

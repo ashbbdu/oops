@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8237132-c580-4aee-a447-231ab3308936" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Abstraction/Abstraction1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Abstraction/Abstraction1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstraction/Question/Question.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +41,7 @@
     "Application.Electronic.executor": "Run",
     "Application.Employee.executor": "Run",
     "Application.Library.executor": "Run",
+    "Application.Question.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",

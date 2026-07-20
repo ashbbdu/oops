@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8237132-c580-4aee-a447-231ab3308936" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Abstraction/Question/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StaticKeyword/Concept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StaticKeyword/TestDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,11 +41,13 @@
     "Application.Abstraction1.executor": "Run",
     "Application.AccountTest.executor": "Run",
     "Application.Book.executor": "Run",
+    "Application.Concept.executor": "Run",
     "Application.Dog.executor": "Run",
     "Application.Electronic.executor": "Run",
     "Application.Employee.executor": "Run",
     "Application.Library.executor": "Run",
     "Application.Question.executor": "Run",
+    "Application.TestDemo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",

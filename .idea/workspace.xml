@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8237132-c580-4aee-a447-231ab3308936" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/prepration/Encapsulation/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prepration/AccessSpecifiers/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prepration/AccessSpecifiers/Protected/Pkg1/Pkg1Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prepration/AccessSpecifiers/Protected/Pkg1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prepration/AccessSpecifiers/Protected/Pkg2/Pkg2Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prepration/AccessSpecifiers/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prepration/TestPackage/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prepration/Encapsulation/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prepration/Encapsulation/BankAccount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,26 +38,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Abstraction.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Abstraction1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AccountTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Book.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Concept.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Dog.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Electronic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Employee.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Library.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestDemo.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/ashishsrivastava/IdeaProjects/OOPS/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Abstraction.executor": "Run",
+    "Application.Abstraction1.executor": "Run",
+    "Application.AccountTest.executor": "Run",
+    "Application.BankAccount.executor": "Run",
+    "Application.Book.executor": "Run",
+    "Application.Concept.executor": "Run",
+    "Application.Dog.executor": "Run",
+    "Application.Electronic.executor": "Run",
+    "Application.Employee.executor": "Run",
+    "Application.Implementation.executor": "Run",
+    "Application.Library.executor": "Run",
+    "Application.Question.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.TestDemo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/ashishsrivastava/IdeaProjects/OOPS/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

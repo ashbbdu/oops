@@ -21,4 +21,10 @@ public class BankAccount {
     public double getBalance () {
         return balance;
     }
+
+    public double withdrawMoney () {
+        // logic
+
+        return 20.00;
+    }
 }

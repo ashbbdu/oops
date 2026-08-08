@@ -23,6 +23,7 @@ class Car1 implements CarInterface {
     @Override
     public void noise() {
         CarInterface.super.noise();
+//        CarInterface.numberOfWheels();
 //        System.out.println("Hii");
     }
 }

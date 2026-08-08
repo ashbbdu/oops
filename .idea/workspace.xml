@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8237132-c580-4aee-a447-231ab3308936" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/prepration/AccessSpecifiers/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepration/AccessSpecifiers/Protected/Pkg1/Pkg1Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepration/AccessSpecifiers/Protected/Pkg1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepration/AccessSpecifiers/Protected/Pkg2/Pkg2Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepration/AccessSpecifiers/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepration/TestPackage/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstraction1/Abstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstraction1/Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/ShapeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prepration/Encapsulation/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prepration/Encapsulation/BankAccount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +43,16 @@
     "Application.AccountTest.executor": "Run",
     "Application.BankAccount.executor": "Run",
     "Application.Book.executor": "Run",
+    "Application.Car.executor": "Run",
     "Application.Concept.executor": "Run",
     "Application.Dog.executor": "Run",
     "Application.Electronic.executor": "Run",
     "Application.Employee.executor": "Run",
     "Application.Implementation.executor": "Run",
+    "Application.Interface.executor": "Run",
     "Application.Library.executor": "Run",
     "Application.Question.executor": "Run",
+    "Application.ShapeCalculator.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.TestDemo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
